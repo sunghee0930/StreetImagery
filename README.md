@@ -2,7 +2,7 @@ For a residential location:
 
 “1. location_imagery_collection” contains Python scripts run in Google Colab to collect Google Street View images, when available, for each MSG residential location.
 
-“2. coding_msa_locations_images_using_gemini” contains Python scripts run in Google Colab to query the Google Gemini API and detect selected items in each image collected during last step.
+“2. coding_locations_images_using_gemini” contains Python scripts run in Google Colab to query the Google Gemini API and detect selected items in each image collected during last step.
 
 
 For each residential location's neighborhood:
